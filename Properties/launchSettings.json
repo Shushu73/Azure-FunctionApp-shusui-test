@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "Azure_FunctionApp_shusui_test": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7059",
+      "launchBrowser": false
+    }
+  }
+}
